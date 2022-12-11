@@ -7,38 +7,6 @@ output: html_document
 
 # Students Performance in Exams
 
-*The write-up - a knit.pdf file*
-
-## "Components" Section Analysis 
-
-**Statement of question/topic that we want to answer and what motivated you to study the question/topic**
-
-The guiding question for our final project is, “How do students’ backgrounds affect academic performance?” Our group imagined we were speaking to the President of USF, who instructed us to look into the disparities in test scores among students of different demographics. This research will help to identify and provide institutional support for students of different identities.
-
-**If applicable, what data will you analyze? Identify at least one source.**
-
-We will analyze the dataset titled, “Students Performance in Exams.” This dataset is from Kaggle. We chose this dataset because as students, much of our academic lives are centered around midterm and final exams. It’s important as a diverse Jesuit school that we understand how certain socioeconomic, racial, and gender identities impact academic performance so we can better address inequalities. 
-
-**What challenges did you face in analyzing this data?**
-
-Before analyzing the data, the main challenge we encountered was finding context about the variables. There were many questions left unanswered. What is the grade level of the students? What kind of exam was taken? Which races/ethnicities belong to Groups A through E? Was the test prep course free? Knowing the grade level of the exam would have helped us understand what institutional resources the students had access to, which may account for the lack of/ prevalence of prep course completion and the need for standard or reduced/ free lunches. In addition, knowing the kind of exam would have informed us whether the population sampled is representative of a standard school population or primarily those in higher education. Contextualizing the potential financial burden of the test prep course could give insight into results involving parental level of education or race/ethnicity variables
-
-In doing the analysis, the main challenge we faced was in learning the balance between aesthetics and comprehensibility of visualizations. There are lots of components that go into graphing data, especially when analyzing multiple variables as we did. There is a certain level of aesthetics needed to differentiate between variables or provide accurate labels, but on the other hand, creating too flashy of a graph can distract from the actual content. Secondly, there are important requirements of visualizations needed to ensure that the viewer is not being misled by the graph. This includes standardized y-axis, to ensure easy compatibility between variables, as well as units of measurement and labeled legends. This was a challenge we ran into, specifically when there were large variations from the average. 
-
-**What packages were needed for this case study?**
-
-We worked with the functions and methods available in RStudio. We applied knowledge of importing and reading csv files, data frame creation and manipulation, subsetting data by criteria, and variance & standard deviations. Our analysis was conducted using the summary(), max(), apply(), mean(), median(), and sd() functions. Visualizations were developed with the barplot() function, specifically when graphing multiple barplots on one graph. 
-
-**What did you learn from this experience?** 
-
-*Please refer to our Case Study below for our group's data analysi conclusions. Individual conclusions are broken down by question.*
-
-**What more could you do with this project in the future?**
-
-In conclusion, what more could we do with this project in the future? Further analysis of this data could provide essential information to school administration, especially in higher level education as it is well established that there are many barriers to entry. This information would be incredibly important at a school like USF whose mission is toward social justice and equity. Understanding how one’s race, socioeconomic status, and gender identities impact academic performance is the first step in leveling the playing field. 
-Additionally, unrelated to this project, Daniel was interested in using the skils he learned in this project for a possible capstone in which he will analyze the performances of Latinx queens on the show RuPaul's Drag Race in relation to their type casting.
-
-
 ## Case Study Analysis
 
 **Load the dataset**
