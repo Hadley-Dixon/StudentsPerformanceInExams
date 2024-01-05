@@ -4,7 +4,7 @@
 The aim of this final project is to provide useful computational tools in R. A major component of this project is to make any code efficient, well-documented, and easy to use. Also any plots or output should be crisp, easily understood, and properly labeled.
 
 ## Assignment
-• A write-up that i sdone in an R markdown file that answers all the questions in the “Components” section below. You must print any plots and show the code for anything necessary to answer the questions.
+• A write-up that is done in an R markdown file that answers all the questions in the “Components” section below. You must print any plots and show the code for anything necessary to answer the questions.
 
 • A 15 minute presentation. In your presentation, include a summary / discussion of everything in the “Components” section below. This does not mean to show all plots, rather, give a presentation that conveys the message and the details of what you would present in a business meeting. Imagine you have one shot to speak in front of a CEO of a company that wants to know what you’ve been working on.
 
